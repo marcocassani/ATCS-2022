@@ -1,0 +1,39 @@
+body
+{
+}
+
+#sidebar
+{
+    background-color: rgb(229, 228, 228);
+    height: 100%; 
+    width: 20%; 
+    position: fixed; 
+    z-index: 1;
+    top: 0; 
+    left: 0;
+    overflow-x: hidden; 
+    padding-top: 20px;
+}
+
+h1
+{
+    font-weight: lighter;
+}
+
+#sidehead
+{
+    padding-left: 20px;
+}
+
+#sidebody
+{
+    position: relative;
+    padding: 20px;
+    
+
+}
+
+.subtext
+{
+    padding-left: 20px;
+}
