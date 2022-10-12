@@ -1,0 +1,47 @@
+.grid{
+    display: grid;
+    grid-template-columns: 35% 65%;
+    min-height: 100vh;
+    
+}
+
+#col1{
+    display: grid;
+    grid-column: 0;
+    place-items: center;
+    background-color: rgb(229, 228, 228);
+}
+
+
+#col1 img{
+    height:auto;
+    width: auto;
+    max-width: 100%;
+}
+
+#col2{
+    padding-left: 10px;
+    display: grid;
+    grid-template-rows: 15% 85%;
+}
+
+.top{
+
+}
+
+.bot{
+    color: rgb(132, 132, 132);
+}
+
+table{
+    padding-top: 30px;
+    height: 10%;
+}
+h1{
+    height: 10%;
+}
+
+#accomplishments{
+    height: 50%;
+    
+}

@@ -1,0 +1,23 @@
+.grid{
+    display: grid;
+    grid-template-columns: 25% 75%;
+    min-height: 100vh;
+}
+
+#col1{
+    display: grid;
+    grid-column: 0;
+    place-items: center;
+    background-color: rgb(229, 228, 228);
+}
+
+#col1 img{
+    height: fit-content;
+    width: fit-content;
+}
+
+#col2{
+    display: grid;
+    place-content: center;
+}
+
