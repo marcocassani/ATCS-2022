@@ -1,11 +1,11 @@
-.grid{
+.grid {
     display: grid;
     grid-template-columns: 35% 65%;
     min-height: 100vh;
-    
+
 }
 
-#col1{
+#col1 {
     display: grid;
     grid-column: 0;
     place-items: center;
@@ -13,35 +13,50 @@
 }
 
 
-#col1 img{
-    height:auto;
+
+
+
+#col1 img {
+    height: auto;
     width: auto;
     max-width: 100%;
 }
 
-#col2{
+#col2 {
     padding-left: 10px;
     display: grid;
-    grid-template-rows: 15% 85%;
-}
-
-.top{
 
 }
 
-.bot{
+li {
+    padding: 5px;
+}
+
+
+.bot {
     color: rgb(132, 132, 132);
 }
 
-table{
+table {
     padding-top: 30px;
-    height: 10%;
+    height: 40%;
 }
-h1{
+
+h1 {
     height: 10%;
 }
 
-#accomplishments{
-    height: 50%;
+#accomplishments {
+    padding: 20px;
+
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(101, 101, 101);
+    color: white;
+    text-align: center;
     
 }

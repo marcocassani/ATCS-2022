@@ -1,23 +1,37 @@
-.grid{
+.grid {
     display: grid;
     grid-template-columns: 25% 75%;
     min-height: 100vh;
 }
 
-#col1{
+#col1 {
     display: grid;
     grid-column: 0;
     place-items: center;
     background-color: rgb(229, 228, 228);
 }
 
-#col1 img{
+#col1 img {
     height: fit-content;
     width: fit-content;
 }
 
-#col2{
+#col2 {
     display: grid;
     place-content: center;
 }
 
+.aboutme {
+    padding: 50px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(101, 101, 101);
+    color: white;
+    text-align: center;
+    
+}
