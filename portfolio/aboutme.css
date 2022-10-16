@@ -12,13 +12,16 @@
 }
 
 #col1 img {
-    height: fit-content;
-    width: fit-content;
+    height: 400px;
+
+    
 }
 
 #col2 {
     display: grid;
     place-content: center;
+    background-color: rgb(203, 203, 203);
+    font-size: larger;
 }
 
 .aboutme {
