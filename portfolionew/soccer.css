@@ -1,0 +1,22 @@
+
+body
+{
+    text-align: center;
+    background-color: rgb(107, 149, 101)    ;
+}
+
+.jumbotron
+{
+    background-color: rgb(121, 177, 146);
+}
+
+li
+{
+    text-align: left;
+}
+
+.card
+{
+    background-color: rgb(77, 119, 77);
+
+}
