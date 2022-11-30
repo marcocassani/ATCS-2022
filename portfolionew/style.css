@@ -1,0 +1,24 @@
+/* Images */
+
+
+.color
+{
+    background-color: rgb(255, 162, 0);
+}
+
+.container{
+    padding-top: 25vh;
+    /* display: flex;
+    flex-direction: row;
+    align-items: center; */
+}
+
+#body
+{
+    background-color: rgb(255, 255, 255);
+    background-image: url('https://dgnomega.org/wp-content/uploads/2021/09/boys-soccer.jpg');
+    background-size: cover;
+    height: 100vh;
+    
+
+}

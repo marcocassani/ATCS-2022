@@ -13,9 +13,9 @@
 
 #col1 img {
     height: 400px;
-
-    
 }
+
+
 
 #col2 {
     display: grid;
@@ -37,4 +37,9 @@
     color: white;
     text-align: center;
     
+}
+
+.tr
+{
+    padding: 100px;
 }

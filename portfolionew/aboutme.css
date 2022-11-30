@@ -1,0 +1,29 @@
+
+body
+{
+    text-align: center;
+    background-color: rgb(255, 190, 100)    ;
+}
+
+.jumbotron
+{
+    background-color: rgb(255, 204, 132);
+}
+.container
+{
+    padding-top: 5vh;
+}
+
+.carousel-item{
+    height: 70vh;
+}
+
+p
+{
+    font-size: larger;
+}
+
+.col-lg-8
+{
+    padding-top: 10vh;
+}

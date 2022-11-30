@@ -1,0 +1,37 @@
+
+body
+{
+    text-align: center;
+    background-color: rgb(110, 158, 197)    ;
+}
+
+.jumbotron
+{
+    background-color: rgb(115, 169, 214);
+}
+
+
+.col-lg-8
+{
+    padding-top: 0vh;
+    text-align: center;
+   
+}
+
+
+
+table
+{
+    font-size: larger;
+}
+
+.top
+{
+    color: black;
+}
+.bot
+{
+    color:rgb(90, 90, 90);
+    font-size: small    ;
+}
+
